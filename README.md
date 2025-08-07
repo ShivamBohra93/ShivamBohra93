@@ -9,8 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+developer;Ex+Internshala%2C+Ex+Codechef&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
-
-
 ###
 
 ##
