@@ -23,28 +23,20 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<table>
-  <tr>
-    <td>
+<img align="right" alt="GIF" src="https://github.com/ShivamBohra93/ShivamBohra93/blob/main/mario_coding.gif" width="360px" rel="preload"/>
+  
+### 🧐 More About Me:
 
-### 😋 More About Me:
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🌱 &nbsp; I’m currently learning Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
-- 🛠️ I’m currently working on **youtube-audio-player**  
-- 🤝 I’m looking to collaborate on **sheets-database**  
-- 🌱 I’m currently learning **Typescript**  
-- 🖥️ Most of my projects are available on [Github](https://github.com/ShivamBohra93)  
-- 🎨 Using [this svg](#) and Figma I made 👉  
-- 💬 Ask me about anything tech related, I am happy to help  
-- 📫 Feel free to ping me on [LinkedIn](https://linkedin.com/in/...)  
-- 📄 Checkout my [resume](#)  
-- 📚 I read fantasy and fiction novels. Checkout my [Goodreads](#)
-
-</td>
-    <td>
-      <img src="https://github.com/ShivamBohra93/ShivamBohra93/blob/main/mario_coding.gif?raw=true" width="360">
-    </td>
-  </tr>
-</table>
 <br>
 
 ### 🔨 Languages and Tools:
