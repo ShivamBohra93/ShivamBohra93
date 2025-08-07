@@ -23,7 +23,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/ShivamBohra93/ShivamBohra93/blob/main/mario_coding.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
