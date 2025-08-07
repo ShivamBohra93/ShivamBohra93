@@ -1,4 +1,5 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rockwell&duration=1&center=true&repeat=false&width=435&lines=Shivam+Bohra)](https://git.io/typing-svg)</h1>
+
 
 ###
 
