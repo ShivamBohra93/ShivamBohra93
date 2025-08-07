@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ShivamBohra93">
-     <img src="https://readme-typing-svg.demolab.com/?lines=Shivam+Bohra&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+     <img src="https://readme-typing-svg.demolab.com/?lines=Shivam+Bohra&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 <p align="center">
