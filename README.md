@@ -24,15 +24,15 @@ I like solving problems 🧠 and building useful stuff 🛠️ — mostly on the
 
 <img align="right" alt="GIF" src="https://github.com/ShivamBohra93/ShivamBohra93/blob/main/mario_coding.gif" width="360px"/>
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 🤝 &nbsp; I’m open to collaborating on interesting backend or system design-focused projects  
+- 🌱 &nbsp; Currently brushing up on frontend fundamentals and diving deeper into **Docker** and **AWS**  
+- 👨🏻‍💻 &nbsp; Most of my work is available on [GitHub](https://github.com/ShivamBohra93?tab=repositories) — recently, I’ve been reading up on low-level design patterns and improving architecture thinking  
+- 📊 &nbsp; I've solved 1500+ problems on [LeetCode (Top 2%)](https://leetcode.com/u/whitemagic7456/)  
+- 💬 &nbsp; Ask me anything tech-related — happy to help or discuss ideas!  
+- 📫 &nbsp; Reach out to me on [LinkedIn](https://www.linkedin.com/in/shivam-bohra-9789741a9/)  
+- 📝 &nbsp; Here’s my [Resume](https://drive.google.com/file/d/1BWp9BUS2UO8vijEqI8_dEby6oemSp6Rj/view)  
+- 📚 &nbsp; In my downtime, I enjoy reading — especially fiction and personal development  
+
 
 <br>
 
