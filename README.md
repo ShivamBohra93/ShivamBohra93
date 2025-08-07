@@ -7,7 +7,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Web+Developer;Ex+Internshala;Ex+Codechef" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&lines=Full+Stack+Web+Developer;Ex+Internshala;Ex+Codechef" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
