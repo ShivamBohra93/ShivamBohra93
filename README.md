@@ -23,7 +23,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" style="margin-top:48px;" src="https://github.com/ShivamBohra93/ShivamBohra93/blob/main/mario_coding.gif" width="360px" rel="preload"/>
+<img align="right" alt="GIF" src="https://github.com/ShivamBohra93/ShivamBohra93/blob/main/mario_coding.gif" width="360px" rel="preload"/>
   
 ### 🧐 More About Me:
 
