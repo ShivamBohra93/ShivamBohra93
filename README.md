@@ -18,7 +18,7 @@
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I like solving problems 🧠 and building useful stuff 🛠️ — mostly on the backend 🖥️, but I’m comfortable working across the stack 🌐 when needed. I enjoy picking up new tools 🧰 and figuring out how to make systems run better ⚙️. You can check out my LeetCode (Top 2% 🏆) and LinkedIn profiles to get a better sense of what I’ve been up to.
   
 ### 🧐 More About Me:
 
