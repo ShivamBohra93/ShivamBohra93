@@ -21,6 +21,9 @@
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
+<p>&nbsp;</p> <!-- Empty paragraph to create spacing -->
+<p>&nbsp;</p> <!-- Another empty paragraph for more spacing -->
+
 <div>
   <img align="right" alt="GIF" src="https://github.com/ShivamBohra93/ShivamBohra93/blob/main/mario_coding.gif" width="360px" height="200px"/>
 </div>
