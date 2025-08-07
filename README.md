@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/ShivamBohra93/readme-typing-svg">
      <img src="https://readme-typing-svg.demolab.com/?lines=Shivam Bohra&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/ShivamBohra93/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+developer;Ex+Internshala%2C+Ex+Codechef&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
