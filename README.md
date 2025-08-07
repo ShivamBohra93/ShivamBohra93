@@ -47,6 +47,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://aws.amazon.com" target="_blank"><img align="left" alt="AWS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg"></a>
 
 <br>
+<br>
 
 ### 📊 Github Stats
 <a href="https://github.com/ShivamBohra93">
