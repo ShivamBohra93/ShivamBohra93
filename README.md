@@ -31,11 +31,9 @@
 <br>
 
 ### 📊 Github Stats
-<a align="left" href='https://github.com/shivambohra93'> 
-  <img src="https://github.com/ShivamBohra93/github-stats-transparent/blob/output/generated/overview.svg" alt="shivambohra93" /> 
-</a>
-<a align="right"> 
-  <img src="https://github.com/ShivamBohra93/github-stats-transparent/blob/output/generated/languages.svg" alt="shivambohra93" /> 
+<a href='https://github.com/shivambohra93'> 
+  <img align="left" src="https://github.com/ShivamBohra93/github-stats-transparent/blob/output/generated/overview.svg" alt="shivambohra93" /> 
+  <img align="right" src="https://github.com/ShivamBohra93/github-stats-transparent/blob/output/generated/languages.svg" alt="shivambohra93" /> 
 </a>
 
 <br>
