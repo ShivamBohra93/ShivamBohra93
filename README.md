@@ -15,8 +15,8 @@
 ### 🧐 More About Me:
 
 
-- 🤝 &nbsp; Currently into webapps and devtools  
 <img align="right" alt="GIF" src="https://github.com/ShivamBohra93/ShivamBohra93/blob/main/mario_coding.gif" width="360px"/>
+- 🤝 &nbsp; Currently into webapps and devtools  
 - 🌍 &nbsp; From India
 - 📊 &nbsp; Open Source Enthusiast
 - 👨🏻‍💻 &nbsp; Most of my work is available on [GitHub](https://github.com/ShivamBohra93?tab=repositories) — recently, I’ve been reading up on low-level design patterns and improving architecture thinking  
