@@ -17,8 +17,6 @@
 <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-
-I like solving problems 🧠 and building useful stuff 🛠️ — mostly on the backend 🖥️, but I’m comfortable working across the stack 🌐 when needed. I enjoy picking up new tools 🧰 and figuring out how to make systems run better ⚙️. You can check out my LeetCode (Top 2% 🏆) and LinkedIn profiles to get a better sense of what I’ve been up to.
   
 ### 🧐 More About Me:
 
