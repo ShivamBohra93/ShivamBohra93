@@ -31,11 +31,12 @@
 <br>
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-![Stats Overview](https://github.com/ShivamBohra93/github-stats-transparent/blob/output/generated/overview.svg)
-![Most Used Languages](https://github.com/ShivamBohra93/github-stats-transparent/blob/output/generated/languages.svg)
+<a align="left" href='https://github.com/shivambohra93'> 
+  <img src="https://github.com/ShivamBohra93/github-stats-transparent/blob/output/generated/overview.svg" alt="shivambohra93" /> 
 </a>
-
+<a align="right"> 
+  <img src="https://github.com/ShivamBohra93/github-stats-transparent/blob/output/generated/languages.svg" alt="shivambohra93" /> 
+</a>
 
 <br>
 
