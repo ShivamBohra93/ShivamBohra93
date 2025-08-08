@@ -14,8 +14,8 @@
 ## 
 ### 🧐 More About Me:
 
-
 <img align="right" alt="GIF" src="https://github.com/ShivamBohra93/ShivamBohra93/blob/main/mario_coding.gif" width="360px"/>
+
 - 🤝 &nbsp; Currently into webapps and devtools  
 - 🌍 &nbsp; From India
 - 📊 &nbsp; Open Source Enthusiast
