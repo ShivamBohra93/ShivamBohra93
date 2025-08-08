@@ -32,14 +32,11 @@
 
 ### 📊 Github Stats
 <a href='https://github.com/shivambohra93'> 
-  <img align="left" src="https://github.com/ShivamBohra93/github-stats-transparent/blob/output/generated/overview.svg" alt="shivambohra93" /> 
-  <img align="right" src="https://github.com/ShivamBohra93/github-stats-transparent/blob/output/generated/languages.svg" alt="shivambohra93" /> 
+  <img align="left" src="https://github.com/ShivamBohra93/github-stats-transparent/blob/output/generated/overview.svg" alt="shivambohra93" style="max-width: 50%;"/>
+  <img align="right" src="https://github.com/ShivamBohra93/github-stats-transparent/blob/output/generated/languages.svg" alt="shivambohra93" style="max-width: 50%;"/>
 </a>
 
-###
-## 
-
-<br>
+<br clear="both">
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
@@ -50,9 +47,8 @@
 <a href="https://codeigniter.com" target="_blank"><img align="left" alt="CodeIgniter" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg"></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img align="left" alt="Flask" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></a>
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
 <a href="https://aws.amazon.com" target="_blank"><img align="left" alt="AWS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg"></a>
 
-<br>
+<br clear="both">
 
-###
